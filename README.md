@@ -23,6 +23,7 @@ Soy una persona creativa, paciente y persistente, con buenas relaciones interper
 
 ### 🗺 MetaMapa – Sistema de Mapeo Colaborativo
 Desarrollado en **Java** con **Spring Boot**, permite mapear eventos geolocalizados integrando datos de múltiples fuentes. Creado como parte del TPA DDSI 2025 (UTN).
+[🔗 Repositorio](https://github.com/EzequielArroyo/MetaMapa.git)
 
 ### 🌐 Portfolio Personal
 Portfolio minimalista y responsive con filtros interactivos y código modular.  
